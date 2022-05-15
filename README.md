@@ -34,6 +34,6 @@
 * [Локальная СУБД](https://dbdesigner.page.link/mLRLfsiM3ws17QnX8) на основе postgreSQL.
 * [Автоматизированный](https://github.com/sinya2/StackExchangeAnalysis/blob/main/Upload%20new%20project%20to%20DB.ipynb) процесс добавления данных дополнительной ветки StackExchange.
 * [Код на Python и SQL](https://github.com/sinya2/StackExchangeAnalysis/blob/main/Tags%20analysis%20on%20DB.ipynb), позволяющий создавать промежуточные таблицы тегов, извлекая их из нужной выборки строк таблицы Posts, выполнять анализ популярности тегов на основе предложенных метрик для отдельных проектов, создавать словари ключевых слов, а также биграмм и триграмм, извлекая их из заголовков постов на стороне базы данных.
-* [Код на Python](https://github.com/sinya2/StackExchangeAnalysis/blob/main/Title%20analysis.ipynb) позволяющий проводить анализ популярности ключевых слов, биграмм и триграмм из заголовков на основе предложенных метрик для отдельных проектов.
+* [Код на Python](https://github.com/sinya2/StackExchangeAnalysis/blob/main/Title%20analysis.ipynb), позволяющий проводить анализ популярности ключевых слов, биграмм и триграмм из заголовков на основе предложенных метрик для отдельных проектов.
 * Полный [отчет](https://docs.google.com/document/d/1pbzEoJp2WkRStS6X9DDhm2JR2pVwZ2_9SfleSVvcVwQ/edit#) по проекту с подробным анализом каждого ресурса.
 
